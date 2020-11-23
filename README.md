@@ -13,4 +13,3 @@ I am **Sandeep Pasumarthi**. My main interests on **Machine Learning**, **Comput
 - 📫 How to reach me: Contact me [mail](mailto:v.s.sandeep.pasumarthi@gmail.com)
 - 😄 Pronouns: Give me one.
 - ⚡ Fun fact: Ace Pubg Player.
--->

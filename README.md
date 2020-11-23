@@ -11,6 +11,6 @@ I am **Sandeep Pasumarthi**. My main interests on **Machine Learning**, **Comput
 * 👯 I’m looking to collaborate on **ML/DL**
 * 🤔 I’m looking for help with Web Development.
 * 💬 Ask me about **ML/DL**.
-* 📫 How to reach me: Contact me [mail](mailto:v.s.sandeep.pasumarthi@gmail.com)
+* 📫 How to reach me: Contact me [*Mail*](mailto:v.s.sandeep.pasumarthi@gmail.com), [*Linkedin*](https://www.linkedin.com/in/arjuna-17/).
 * 😄 Pronouns: Give me one.
 * ⚡ Fun fact: Ace Pubg Player.

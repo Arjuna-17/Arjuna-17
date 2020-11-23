@@ -1,6 +1,6 @@
 # Sandeep Pasumarthi
 
-[![Mail_Image_Link](https://github.com/Arjuna-17/Extra/blob/Arjuna/Mail.png)](mailto:v.s.sandeep.pasumarthi@gmail.com)
+[![Mail_Image_Link](https://github.com/Arjuna-17/Extra/blob/Arjuna/Mail.png)](mailto:v.s.sandeep.pasumarthi@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Mail_Image_Link](https://github.com/Arjuna-17/Extra/blob/Arjuna/Linkedin.png)](https://www.linkedin.com/in/arjuna-17/)
 
 ### Hi there 👋
 
@@ -14,3 +14,4 @@ I am **Sandeep Pasumarthi**. My main interests on **Machine Learning**, **Comput
 * 📫 How to reach me: Contact me [*Mail*](mailto:v.s.sandeep.pasumarthi@gmail.com), [*Linkedin*](https://www.linkedin.com/in/arjuna-17/).
 * 😄 Pronouns: Give me one.
 * ⚡ Fun fact: Ace Pubg Player.
+  

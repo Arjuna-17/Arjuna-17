@@ -1,7 +1,9 @@
-### Hi there 👋
+# Sandeep Pasumarthi
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<!--
-**Arjuna-17/Arjuna-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+### Hi there 👋
 
 I am **Sandeep Pasumarthi**. My main interests on **Machine Learning**, **Computer Vision** and **Natural Language Processing**. I am a very quick learner and very curious about new things.
 

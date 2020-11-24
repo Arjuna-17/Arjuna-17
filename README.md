@@ -1,6 +1,6 @@
 # Sandeep Pasumarthi
 
-[![Mail_Image_Link](https://github.com/Arjuna-17/Extra/blob/Arjuna/Mail.png)](mailto:v.s.sandeep.pasumarthi@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Mail_Image_Link](https://github.com/Arjuna-17/Extra/blob/Arjuna/Linkedin.png)](https://www.linkedin.com/in/arjuna-17/)
+[![Mail](https://github.com/Arjuna-17/Extra/blob/Arjuna/Mail.png)](mailto:v.s.sandeep.pasumarthi@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Linkedin](https://github.com/Arjuna-17/Extra/blob/Arjuna/Linkedin.png)](https://www.linkedin.com/in/arjuna-17/)
 
 ### Hi there 👋
 

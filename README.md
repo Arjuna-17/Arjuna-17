@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-I am **Sandeep Pasumarthi**. My main interests on **Machine Learning**, **Computer Vision** and **Natural Language Processing**. I am a very quick learner and very curious about new things.
+I am **Sandeep Pasumarthi**. My main interests on **Machine Learning**, **Computer Vision** and **Natural Language Processing**. I am a quick learner and very curious about new things.
 
 * 🔭 I’m currently working on **Sentiment Analysis** and **Speech Generation**.
 * 🌱 I’m currently learning Best practices of **Computer Vision** and **Natural Language Processing**.
